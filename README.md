@@ -62,6 +62,3 @@ print(trie.contains("can"))      # False
 * Spell checkers
 * IP routing
 * Dictionary implementations
-
-```
-
